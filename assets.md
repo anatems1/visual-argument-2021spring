@@ -25,7 +25,7 @@
 <tr>
   <td>Road Sign</td>
   <td>Sign Transparent Background</td>
-  <td>Clipart Library,/td>
+  <td>Clipart Library</td>
   <td>Cliparts License</td>
   <td><a href='http://clipart-library.com/clip-art/sign-transparent-background-1.htm'>Link</a></td>
 </tr>
