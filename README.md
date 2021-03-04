@@ -1,8 +1,16 @@
-**ForwardWithFuture**
-__DISCLAIMER: Yes I know there is a type in the filename... sorry but it is too late to change this :)__
+
 <p align="center">
-<h1>"Your past doesn't decide your future"</h1>
+<img src="https://github.com/anatems1/visual-argument-2021spring/blob/master/Preview.png" width="7000">
 </p>
+
+<p align="center">
+**ForwardWithFuture**
+<br></br>
+__DISCLAIMER: Yes I know there is a type in the filename... sorry but it is too late to change this :)__
+<br></br>
+"Your past doesn't decide your future"
+</p>
+
 <p>
 <ul>
 <li>While viewing the details in the rethorical image named "FowardWithFuture.xtc", keep this phrase in mind and assess the ideas that come to mind</li>
