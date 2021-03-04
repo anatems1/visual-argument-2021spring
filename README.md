@@ -1,15 +1,14 @@
 
+**ForwardWithFuture**
 <p align="center">
 <img src="https://github.com/anatems1/visual-argument-2021spring/blob/master/Preview.png" width="7000">
 </p>
 
 <p align="center">
-**ForwardWithFuture**
-<br></br>
-__DISCLAIMER: Yes I know there is a type in the filename... sorry but it is too late to change this :)__
-<br></br>
 "Your past doesn't decide your future"
 </p>
+
+__DISCLAIMER: Yes I know there is a type in the filename... sorry but it is too late to change this :)__
 
 <p>
 <ul>
