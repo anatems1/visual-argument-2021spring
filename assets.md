@@ -26,15 +26,21 @@
   <td>Road Sign</td>
   <td>Sign Transparent Background #1555060</td>
   <td>Clipart Library</td>
-  <td><a href='http://clipart-library.com/terms.html'>Cliparts License</a></td>
+  <td><a href='http://clipart-library.com/terms.html'>Cliparts License (Personal use)</a></td>
   <td><a href='http://clipart-library.com/clip-art/sign-transparent-background-1.htm'>Link</a></td>
 </tr>
 <tr>
   <td>Window Cleaner</td>
   <td>Window Cleaning Cliparts #2432436</td>
   <td>Clipart Library</td>
-  <td><a href='http://clipart-library.com/terms.html'>Cliparts License</a></td>
+  <td><a href='http://clipart-library.com/terms.html'>Cliparts License (Personal use)</a></td>
   <td><a href='http://clipart-library.com/clipart/873681.htm'>Link</a></td>
 </tr>
-
+<tr>
+  <td>Eye Glasses</td>
+  <td>Glasses With Transparent Background #1510421</td>
+  <td>Clipart Library</td>
+  <td><a href='http://clipart-library.com/terms.html'>Cliparts License (Personal use)</a></td>
+  <td><a href='http://clipart-library.com/clip-art/glasses-with-transparent-background-9.htm'>Link</a></td>
+</tr>
 </table>
