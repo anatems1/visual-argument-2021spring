@@ -1,10 +1,20 @@
+b><u>March 9nd, 2021 4:00PM</u></b>
+<p align="center">
+<img src="https://github.com/anatems1/visual-argument-2021spring/blob/master/screenshots/screenshot_20210309_400PM.JPG" width="7000">
+</p>
+
+<p>
+
+</p>
+
+
 <b><u>March 2nd, 2021 11:59PM</u></b>
 <p align="center">
 <img src="https://github.com/anatems1/visual-argument-2021spring/blob/master/screenshots/screenshot_20210302_1159PM.JPG" width="7000">
 </p>
 
 <p>
-Not only did I add signs that are to be pointing to the right for the future and to the left for the past, but I began to mess with filters a bit in this process. Originally I wanted to have a gradient of blurriness gradually getting more clear as you head toward the future, but I did not like how that product looked. I finally came to the conclusion that I want the past to be unfocused and the future to be very clear and distinct. I finally found the "linear motion" filter that made the left side of the image very out of focus. I still have to add arrows to the signs and start playing around with the fonts. I am contemplating on how/where I want to put the words in the image. I feel like I don't necessarily need to put a quote because I feel right now that the image says enough, but I may either put the words going up the page vertically along the road or have window washers transcribing the words into the glass on the future side. 
+Not only did I add signs that are to be pointing to the right for the future and to the left for the past, but I began to mess with filters a bit in this process. Originally I wanted to have a gradient of blurriness gradually getting more clear as you head toward the future, but I did not like how that product looked. I finally came to the conclusion that I want the past to be unfocused and the future to be very clear and distinct. I finally found the "linear motion" filter that made the left side of the image very out of focus. I still have to add arrows to the signs and start playing around with the fonts. I am contemplating on how/where I want to put the words in the image. I feel like I don't necessarily need to put a quote because I feel right now that the image says enough, but I may either put the words going up the page vertically along the road or have window washers transcribing the words into the glass on the future side.
 </p>
 
 
