@@ -19,5 +19,7 @@ __DISCLAIMER: Yes I know there is a type in the filename... sorry but it is too 
 <li>All images not created by me can be found in the "assets.md" file as well</li>
 
 <li>The latest flattened version of the image can be viewed in the "ForwardWithFuture.png" file</li>
+
+<li>If the full gimp ".xcf" file can not be downloaded, please use <a href='https://pitt-my.sharepoint.com/:u:/g/personal/mrs196_pitt_edu/ERkxs1d3hdlDpeWOk-vql9wB63bsMfoUmKj4YFdOwuQOjw?e=2UwRGT'>this link</a> to download</li>
 </ul>
 </p>
