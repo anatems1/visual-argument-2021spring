@@ -1,12 +1,36 @@
-b><u>March 9nd, 2021 4:00PM</u></b>
+<b><u>March 13th, 2021 6:00PM</u></b>
+<p align="center">
+<img src="https://github.com/anatems1/visual-argument-2021spring/blob/master/screenshots/screenshot_20210313_600PM.JPG" width="7000">
+</p>
+<p>
+Changed the fonts and added lenses to the eye glasses to look slightly more realistic. The arrows on the sign are also hand drawn in GIMP.
+</p>
+
+<p align="center">
+<img src="https://github.com/anatems1/visual-argument-2021spring/blob/master/screenshots/font_matching.JPG" width="2000">
+</p>
+<p>
+I really liked this combination of fonts. I was able to play around with this website for a while. I definitely wanted a more naturally bold text for the text on the buildings and font that would match with that for the signs.
+</p>
+
+
+<b><u>March 9th, 2021 4:00PM</u></b>
 <p align="center">
 <img src="https://github.com/anatems1/visual-argument-2021spring/blob/master/screenshots/screenshot_20210309_400PM.JPG" width="7000">
 </p>
 
 <p>
-
+Added eye glasses to the image to enhance the metaphor of actually "looking" into the future and the past.
 </p>
 
+<b><u>March 3rd, 2021 10:45PM</u></b>
+<p align="center">
+<img src="https://github.com/anatems1/visual-argument-2021spring/blob/master/screenshots/screenshot_20210303_1045PM.JPG" width="7000">
+</p>
+
+<p>
+Added text on the buildings.
+</p>
 
 <b><u>March 2nd, 2021 11:59PM</u></b>
 <p align="center">
